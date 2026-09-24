@@ -4,7 +4,7 @@ Estudante de Segurança da Informação na Fatec Araraquara, com foco em **desen
 
 - 🛡️ Estudando para a **Microsoft SC-200** (Defender, Sentinel e KQL)
 - 💻 Desenvolvo com **C#/.NET, Angular e SQL Server**, com atenção a validação e segurança no back-end
-- 🤖 Já trabalhei com robótica: **Arduino e C++** na Olimpíada Brasileira de Robótica
+- 🤖 Já trabalhei com robótica: **Arduino e C++** na Olimpíada Brasileira de Robótica (2024)
 - 🌎 Inglês avançado (**TOEIC 830**)
 - 📍 Araraquara, SP, Brasil
 
