@@ -37,7 +37,7 @@ Estudante de Segurança da Informação na Fatec Araraquara, com foco em **desen
 ## 🎓 Certificações
 
 - Cisco: Cyber Threat Management e Introduction to Cybersecurity
-- BluePex: Cybersecurity Framework Professional e Essentials em Redes
+- BluePex: Cybersecurity Framework Professional, Essentials em Redes e Essentials em Firewalls Básico
 - AWS Academy: Cloud Foundations
 - TOEIC Listening & Reading: 830 pontos
 
