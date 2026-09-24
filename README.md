@@ -32,6 +32,7 @@ Estudante de Segurança da Informação na Fatec Araraquara, com foco em **desen
 |---|---|---|
 | [api-cursos](https://github.com/raul-dalessandro/api-cursos) | CRUD de cursos com API REST em C#, front-end em Angular e banco SQL Server, com foco em validação e segurança no back-end | C#, ASP.NET Web API, Angular, SQL Server |
 | [pisrc-araraquara](https://github.com/raul-dalessandro/pisrc-araraquara) | Benchmark de workload de um supermercado online: análise de confiabilidade e segurança, com caso de negócio e risco de LGPD | Arquitetura de nuvem, Segurança |
+| [psi-quiosque-access-cell](https://github.com/raul-dalessandro/psi-quiosque-access-cell) | Política de Segurança da Informação para um pequeno negócio: matriz de riscos, normas por ativo, resposta a incidentes e KPIs | ISO 27001, LGPD, NIST |
 
 ## 🎓 Certificações
 
