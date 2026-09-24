@@ -31,7 +31,7 @@ Estudante de Segurança da Informação na Fatec Araraquara, com foco em **desen
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [api-cursos](https://github.com/raul-dalessandro/api-cursos) | CRUD de cursos com API REST em C#, front-end em Angular e banco SQL Server, com foco em validação e segurança no back-end | C#, ASP.NET Web API, Angular, SQL Server |
-| [robo-obr](https://github.com/raul-dalessandro/robo-obr) | Robô de resgate autônomo da OBR 2024 (etapa São Carlos/SP): montagem mecânica, elétrica e programação | Arduino, C++ |
+| [pisrc-araraquara](https://github.com/raul-dalessandro/pisrc-araraquara) | Benchmark de workload de um supermercado online: análise de confiabilidade e segurança, com caso de negócio e risco de LGPD | Arquitetura de nuvem, Segurança |
 
 ## 🎓 Certificações
 
